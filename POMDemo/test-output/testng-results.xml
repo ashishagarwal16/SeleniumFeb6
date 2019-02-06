@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-01-14T03:38:33Z" name="Suite" finished-at="2019-01-14T03:38:53Z" duration-ms="20292">
+    <groups>
+    </groups>
+    <test started-at="2019-01-14T03:38:33Z" name="Test" finished-at="2019-01-14T03:38:53Z" duration-ms="20292">
+      <class name="com.demoaut.newtours.testscript.InvalidUserTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.demoaut.newtours.testscript.InvalidUserTest@609cd4d8]" started-at="2019-01-14T03:38:40Z" name="openBrowser" finished-at="2019-01-14T03:38:43Z" duration-ms="2231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="invalidUserTest()[pri:0, instance:com.demoaut.newtours.testscript.InvalidUserTest@609cd4d8]" started-at="2019-01-14T03:38:43Z" name="invalidUserTest" finished-at="2019-01-14T03:38:44Z" duration-ms="1644" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidUserTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.demoaut.newtours.testscript.InvalidUserTest@609cd4d8]" started-at="2019-01-14T03:38:44Z" name="closeBrowser" finished-at="2019-01-14T03:38:44Z" duration-ms="96" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.demoaut.newtours.testscript.InvalidUserTest -->
+      <class name="com.demoaut.newtours.testscript.ValidateUserTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.demoaut.newtours.testscript.ValidateUserTest@66d18979]" started-at="2019-01-14T03:38:33Z" name="openBrowser" finished-at="2019-01-14T03:38:36Z" duration-ms="2944" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="userValidation()[pri:0, instance:com.demoaut.newtours.testscript.ValidateUserTest@66d18979]" started-at="2019-01-14T03:38:36Z" name="userValidation" finished-at="2019-01-14T03:38:40Z" duration-ms="4447" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userValidation -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.demoaut.newtours.testscript.ValidateUserTest@66d18979]" started-at="2019-01-14T03:38:40Z" name="closeBrowser" finished-at="2019-01-14T03:38:40Z" duration-ms="95" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.demoaut.newtours.testscript.ValidateUserTest -->
+      <class name="com.demoaut.newtours.testscript.bookTicketTest">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.demoaut.newtours.testscript.bookTicketTest@bccb269]" started-at="2019-01-14T03:38:44Z" name="openBrowser" finished-at="2019-01-14T03:38:46Z" duration-ms="2142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="bookTicketTest()[pri:0, instance:com.demoaut.newtours.testscript.bookTicketTest@bccb269]" started-at="2019-01-14T03:38:46Z" name="bookTicketTest" finished-at="2019-01-14T03:38:53Z" duration-ms="6584" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookTicketTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.demoaut.newtours.testscript.bookTicketTest@bccb269]" started-at="2019-01-14T03:38:53Z" name="closeBrowser" finished-at="2019-01-14T03:38:53Z" duration-ms="84" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.demoaut.newtours.testscript.bookTicketTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
